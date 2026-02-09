@@ -1,4 +1,4 @@
-# The Hytel Way: Monorepo Stack
+# The Hytel Way: Monorepo Stack...
 
 A production-ready monorepo template featuring React, TypeScript, Tailwind CSS, Shadcn UI, tRPC, and TanStack Query. Built with pnpm and Turborepo for optimal developer experience.
 
